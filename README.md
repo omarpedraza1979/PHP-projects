@@ -3,40 +3,51 @@
 
 Repositorio con 5 proyectos prácticos en PHP y MySQL para practicar desarrollo web:
 
--- **php-login**: formulario de registro e inicio de sesión de usuarios.
 
--- **crud-php**: operaciones CRUD interactivas con lenguaje PHP, Jquery y2 base de datos MySQL.
+- 🔑 **php-login**  
+  Sistema de registro e inicio de sesión de usuarios con PHP y MySQL.
 
--- **form_contacto**: formulario de contacto básico.
+- 🗂️ **crud-php**  
+  Aplicación CRUD (Crear, Leer, Actualizar, Eliminar) básica con PHP y base de datos.
 
--- **calculadora**: calculadora dinámica con PHP y JavaScript.
+- 📧 **form_contacto**  
+  Formulario de contacto con validación y envío de datos.
 
--- **task-app**: Aplicativo web para adicion de tareas usando AJAX.
+- 🧮 **calculadora**  
+  Calculadora dinámica construida con PHP, JavaScript y HTML.
+
+- ✅ **task-app**  
+  Aplicativo web para adicion de tareas usando AJAX.
+
 
 Estos ejemplos integran HTML, CSS, JavaScript, Bootstrap y jQuery.
 
 ---
 
-##  Requisitos
+## ⚡ Requisitos previos
 
-- **XAMPP** instalado (incluye Apache, MariaDB/MySQL y PHP).  
+- 🖥️ **XAMPP** instalado (incluye Apache, PHP y MySQL/MariaDB).
   > XAMPP es un paquete de servidor local multiplataforma (Apache, MariaDB, PHP, Perl) que facilita configurar un entorno de desarrollo.
 
 ---
 
-##  Instalación y ejecución
+## ⚙️ Instalación y ejecución
 
-1. Clona el repositorio:
+1. 📥 Clona el repositorio:
 
    ```bash
    git clone https://github.com/omarpedraza1979/PHP-projects.git
    ```
 
-2. Abre el panel de control de XAMPP y **inicia Apache** y **MySQL** (si los proyectos usan base de datos).
+2. ▶️ Abre el panel de control de XAMPP e inicia:
 
-3. Copia o mueve los proyectos a la carpeta `htdocs` de XAMPP (por ejemplo `C:\xampp\htdocs\PHP-projects`).
+     🌐 Apache
 
-4. En tu navegador, accede a cada proyecto:
+     🗄️ MySQL (si alguno de los proyectos lo requiere).
+
+3. 📂 Copia los proyectos a la carpeta htdocs de XAMPP (por ejemplo: C:\xampp\htdocs\PHP-projects)
+
+4. 🌍 Abre tu navegador y visita cada proyecto:
 
    - http://localhost/PHP-projects/php-login/
    - http://localhost:8080/crud-php/proyecto/index.php
@@ -50,7 +61,8 @@ Estos ejemplos integran HTML, CSS, JavaScript, Bootstrap y jQuery.
 
 Para los proyectos que usen MySQL/MariaDB (como el login o CRUD):
 
-1. Accede a **phpMyAdmin** en http://localhost/phpmyadmin/.
+🔑 Accede a phpMyAdmin en http://localhost/phpmyadmin/
+
 
 - Para el proyecto **crud-php** se requiere la BD contenida en el siguiente script :
 
@@ -59,30 +71,29 @@ Para los proyectos que usen MySQL/MariaDB (como el login o CRUD):
 
 ---
 
-##  Tecnologías utilizadas
+🛠️ Tecnologías utilizadas
 
-- PHP
-- MySQL / MariaDB
-- HTML, CSS, JavaScript
-- Bootstrap
-- jQuery
-- AJAX (en algunos proyectos)
-
----
-
-##  Notas
-
-- Asegúrate de que Apache use el puerto **80** o ajusta según sea necesario.  
-- XAMPP es ideal para desarrollo local, pero no se recomienda confiar en su configuración para producción, ya que muchas funciones de seguridad vienen desactivadas.
+🐘 PHP
+🗄️ MySQL / MariaDB
+🎨 HTML, CSS, JavaScript
+🎯 Bootstrap
+⚡ jQuery
+🔄 AJAX (en algunos proyectos)
 
 ---
 
-##  Licencia
+📌 Notas
 
-Este repositorio está disponible bajo la licencia **(especifica la licencia si hay una, por ejemplo MIT o GPL)**.
+⚠️ Revisa que Apache use el puerto 80 (o ajusta si tienes conflictos).
+🔒 XAMPP es ideal para desarrollo local, pero no se recomienda en producción porque muchas configuraciones de seguridad vienen deshabilitadas por defecto.
 
 ---
 
-##  ¡Disfruta explorando y aprendiendo!
+📜 Licencia
 
-Para dudas o sugerencias, puedes contactar a **Omar Pedraza** o abrir un *issue* en el repositorio.
+📖 Este repositorio puede estar bajo licencia MIT, GPL u otra. Incluye el archivo de licencia correspondiente.
+
+🤝 Contribuciones
+
+🙌 ¿Tienes sugerencias o mejoras? ¡Bienvenido/a!
+Puedes abrir un issue o enviar un pull request.
