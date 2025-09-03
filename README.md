@@ -65,8 +65,10 @@ Para los proyectos que usen MySQL/MariaDB (como el login o CRUD):
 
 
 - Para el proyecto **crud-php** se requiere la BD contenida en el siguiente script :
+- 🗂️ [escuela.sql](https://github.com/omarpedraza1979/PHP-projects/blob/main/BDs/escuela.sql) 
 
 - Para los proyectos **php-login** y **task-app** se requiere la BD contenida en el siguiente script :
+- 🔑 [task_app1.sql](https://github.com/omarpedraza1979/PHP-projects/blob/main/BDs/task_app1.sql) 
 
 
 ---
