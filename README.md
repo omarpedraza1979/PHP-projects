@@ -2,11 +2,11 @@
 
 Repositorio con 5 proyectos prácticos en PHP y MySQL para practicar desarrollo web:
 
-1- **php-login**: formulario de registro e inicio de sesión de usuarios.
-2- **crud-php**: operaciones CRUD interactivas con lenguaje PHP, Jquery y2 base de datos MySQL.
-3- **form_contacto**: formulario de contacto básico.
-4- **calculadora**: calculadora dinámica con PHP y JavaScript.
-5- **task-app**: Aplicativo web para adicion de tareas usando AJAX.
+**php-login**: formulario de registro e inicio de sesión de usuarios.
+**crud-php**: operaciones CRUD interactivas con lenguaje PHP, Jquery y2 base de datos MySQL.
+**form_contacto**: formulario de contacto básico.
+**calculadora**: calculadora dinámica con PHP y JavaScript.
+**task-app**: Aplicativo web para adicion de tareas usando AJAX.
 
 Estos ejemplos integran HTML, CSS, JavaScript, Bootstrap y jQuery.
 
@@ -41,15 +41,16 @@ Estos ejemplos integran HTML, CSS, JavaScript, Bootstrap y jQuery.
 
 ---
 
-##  Base de datos 
+##  Base de datos (si aplica)
 
 Para los proyectos que usen MySQL/MariaDB (como el login o CRUD):
 
 1. Accede a **phpMyAdmin** en http://localhost/phpmyadmin/.
 
-- Para el proyecto **2- crud-php** se requiere la BD contenida en el siguiente script :
+- Para el proyecto **crud-php** se requiere la BD contenida en el siguiente script :
 
-- Para los proyectos **1- php-login** y **5- task-app** se requiere la BD contenida en el siguiente script :
+- Para los proyectos **php-login** y **task-app** se requiere la BD contenida en el siguiente script :
+
 
 ---
 
