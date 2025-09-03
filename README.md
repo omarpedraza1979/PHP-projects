@@ -75,12 +75,12 @@ Para los proyectos que usen MySQL/MariaDB (como el login o CRUD):
 
 🛠️ Tecnologías utilizadas
 
-🐘 PHP
-🗄️ MySQL / MariaDB
-🎨 HTML, CSS, JavaScript
-🎯 Bootstrap
-⚡ jQuery
-🔄 AJAX (en algunos proyectos)
+- 🐘 PHP
+- 🗄️ MySQL / MariaDB
+- 🎨 HTML, CSS, JavaScript
+- 🎯 Bootstrap
+- ⚡ jQuery
+- 🔄 AJAX (en algunos proyectos)
 
 ---
 
