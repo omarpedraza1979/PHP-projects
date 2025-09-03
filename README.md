@@ -1,12 +1,17 @@
+
 # PHP‑projects by Omar Pedraza
 
 Repositorio con 5 proyectos prácticos en PHP y MySQL para practicar desarrollo web:
 
-**php-login**: formulario de registro e inicio de sesión de usuarios.
-**crud-php**: operaciones CRUD interactivas con lenguaje PHP, Jquery y2 base de datos MySQL.
-**form_contacto**: formulario de contacto básico.
-**calculadora**: calculadora dinámica con PHP y JavaScript.
-**task-app**: Aplicativo web para adicion de tareas usando AJAX.
+-- **php-login**: formulario de registro e inicio de sesión de usuarios.
+
+-- **crud-php**: operaciones CRUD interactivas con lenguaje PHP, Jquery y2 base de datos MySQL.
+
+-- **form_contacto**: formulario de contacto básico.
+
+-- **calculadora**: calculadora dinámica con PHP y JavaScript.
+
+-- **task-app**: Aplicativo web para adicion de tareas usando AJAX.
 
 Estos ejemplos integran HTML, CSS, JavaScript, Bootstrap y jQuery.
 
