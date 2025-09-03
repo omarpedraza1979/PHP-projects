@@ -2,11 +2,11 @@
 
 Repositorio con 5 proyectos prácticos en PHP y MySQL para practicar desarrollo web:
 
-- **php-login**: formulario de registro e inicio de sesión de usuarios.
-- **crud-php**: operaciones CRUD interactivas con lenguaje PHP y base de datos.
-- **form_contacto**: formulario de contacto básico.
-- **calculadora**: calculadora dinámica con PHP y JavaScript.
-- **task-app**: (descripción breve si corresponde).
+1- **php-login**: formulario de registro e inicio de sesión de usuarios.
+2- **crud-php**: operaciones CRUD interactivas con lenguaje PHP, Jquery y2 base de datos MySQL.
+3- **form_contacto**: formulario de contacto básico.
+4- **calculadora**: calculadora dinámica con PHP y JavaScript.
+5- **task-app**: Aplicativo web para adicion de tareas usando AJAX.
 
 Estos ejemplos integran HTML, CSS, JavaScript, Bootstrap y jQuery.
 
@@ -34,21 +34,22 @@ Estos ejemplos integran HTML, CSS, JavaScript, Bootstrap y jQuery.
 4. En tu navegador, accede a cada proyecto:
 
    - http://localhost/PHP-projects/php-login/
-   - http://localhost/PHP-projects/crud-php/
+   - http://localhost:8080/crud-php/proyecto/index.php
    - http://localhost/PHP-projects/form_contacto/
    - http://localhost/PHP-projects/calculadora/
    - http://localhost/PHP-projects/task-app/
 
 ---
 
-##  Base de datos (si aplica)
+##  Base de datos 
 
 Para los proyectos que usen MySQL/MariaDB (como el login o CRUD):
 
 1. Accede a **phpMyAdmin** en http://localhost/phpmyadmin/.
-2. Crea una base de datos, por ejemplo `mi_proyecto_db`.
-3. Importa el archivo `.sql` si está incluido o crea las tablas necesarias manualmente.
-4. Actualiza los parámetros de conexión en el archivo PHP correspondiente —host, usuario, contraseña, nombre de base de datos.
+
+- Para el proyecto **2- crud-php** se requiere la BD contenida en el siguiente script :
+
+- Para los proyectos **1- php-login** y **5- task-app** se requiere la BD contenida en el siguiente script :
 
 ---
 
